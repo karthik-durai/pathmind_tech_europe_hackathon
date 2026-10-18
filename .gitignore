@@ -1,0 +1,8 @@
+
+.venv/
+demo_run/
+__pycache__/
+.superpowers/
+data/
+third_party/
+.pytest_cache/

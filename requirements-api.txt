@@ -1,0 +1,9 @@
+openai>=1.50
+transformers==4.51.0
+torch
+accelerate
+datasets==4.0.0
+pandas
+numpy
+pillow
+tqdm
